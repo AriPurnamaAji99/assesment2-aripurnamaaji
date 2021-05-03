@@ -1,0 +1,77 @@
+{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: Calibri,Arial;
+}
+
+header{
+
+}
+
+body{
+	background-color: lightblue;
+	background-image: url(gambar/geometry.png);
+}
+
+footer{
+	text-align: center;
+}
+
+hr .linefooter{
+	border-top: 1px solid #afbcc6;
+    border-bottom: 1px solid #eff2f6;
+    height: 0px;
+    margin-bottom: 20px;
+}
+
+.kotakdaftar{
+    background: #fbfbfb;
+    border-radius: 8px;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.65);
+    height: 400px;
+    margin: 6rem auto 8.1rem auto;
+    width: 300px;
+    margin-top: 90px;
+    margin-bottom: 80px;
+}
+
+.kotaklogin{
+    background: #fbfbfb;
+    border-radius: 8px;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.65);
+    height: 300px;
+    margin: 6rem auto 8.1rem auto;
+    width: 300px;
+    margin-top: 90px;
+    margin-bottom: 165px;
+}
+
+
+.kotaktext{
+	text-align: center;
+	margin: 40px;
+}
+
+.form_daftarlogin{
+	box-sizing: border-box;
+	width: 108%;
+	padding: 10px;
+}
+
+.textdaftar{
+	font-size: 13pt;
+	text-align: center;
+	padding: 10px;
+	padding-bottom: 1px;
+}
+
+.tombol_loginsign{
+	background: #0388fc;
+	color: white;
+	font-size: 10pt;
+	width: 108%;
+	border: solid;
+	padding: 7px 14px;
+}
